@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "browser-sync": "^2.27.7",
+    "figlet": "^1.5.2",
+    "install": "^0.13.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
